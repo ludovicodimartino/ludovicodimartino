@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Ludovico Di Martino
 
-<!--
-**ludovicodimartino/ludovicodimartino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Engineer**  
+🚀 **Passionate about Data Engineering and Web Development**  
+🎨 **Creative technologist who loves building unique and impactful projects**
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a graduated computer engineer with a strong passion for **data engineering** and **web development**. I love working on projects that challenge my creativity and I believe in building things that are not just functional, but also meaningful and fun.
+
+## 🔧 Technologies & Tools I Use
+
+- **Languages:** C, C++, Java, Python, JavaScript, TypeScript, SQL, HTML/CSS
+- **Frameworks:** Node.js, React, Flask, Django  
+- **Tools & Platforms:** Docker, Git, Ansible, PostgreSQL
+
+## 📂 Projects
+
+Check out my pinned repositories below for a sample of what I’m working on.
