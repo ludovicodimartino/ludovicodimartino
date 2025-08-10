@@ -4,16 +4,15 @@
 🚀 **Passionate about Data Engineering and Web Development**  
 🎨 **Creative technologist who loves building unique and impactful projects**
 
-## 🧠 About Me
+## About Me
 
 I'm a graduated computer engineer with a strong passion for **data engineering** and **web development**. I love working on projects that challenge my creativity and I believe in building things that are not just functional, but also meaningful and fun.
 
-## 🔧 Technologies & Tools I Use
+## Technologies & Tools I Use
 
 - **Languages:** C, C++, Java, Python, JavaScript, TypeScript, SQL, HTML/CSS
-- **Frameworks:** Node.js, React, Flask, Django  
-- **Tools & Platforms:** Docker, Git, Ansible, PostgreSQL
+- **Tools & Platforms:** Docker, Git, Ansible, PostgreSQL, MongoDB, GraphDB
 
-## 📂 Projects
+## Projects
 
 Check out my pinned repositories below for a sample of what I’m working on.
